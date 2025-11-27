@@ -1,0 +1,24 @@
+{
+  "name": "cypress-adv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SriMugundhan95/cypress-adv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SriMugundhan95/cypress-adv/issues"
+  },
+  "homepage": "https://github.com/SriMugundhan95/cypress-adv#readme",
+  "devDependencies": {
+    "cypress": "^15.7.0"
+  }
+}
